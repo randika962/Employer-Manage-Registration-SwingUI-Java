@@ -10,5 +10,7 @@ This project including,
  3. Validation and exception handling.
  
  You must firstly add dependencies in your pom.xml.
+ 
+ I have added a "demo" video to give you a rough idea.
 
 Thank you!
